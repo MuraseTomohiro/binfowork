@@ -6,7 +6,7 @@ This software is homework about "Advanced Bioinformatics Programming I" and make
 ./waf configure build
 ./waf install
 ```
-#Useage
+#Usage
 ```bash
 mulsum 3 5
 multable
